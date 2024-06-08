@@ -1,5 +1,4 @@
-# Você sabe o tempo que você passa utilizando o seu celular ? 
-
+# Você sabe o tempo investido utilizando seu celular ? 
 
 
 
