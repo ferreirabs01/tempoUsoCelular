@@ -15,7 +15,7 @@ Como verificar o tempo de uso no celular por aplicativo.
 
 Clique no primeiro card:
 
-![alt text](image-2.png)
+![alt text](./img/image-2.png)
 
 Clique na exibição por aplicativo, e apos no card que exibe os dias de uso da ultima semana, selecione o dia com o maior uso, e após em view all:
 
